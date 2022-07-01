@@ -1,0 +1,25 @@
+tama = "tama"
+mali = "mali"
+i = 1
+x = 1
+
+kapag (5 > x):
+    pakitahe(tama)
+o_kapag (5 < x):
+    pakitahe(mali)
+pag_hinde:
+    pakitahe(ewan)
+tapuse
+
+para (i <= 10):
+    pakitahe(i)
+    i = i + 1
+ulite
+
+lipate (x): 
+    lagay 1: 
+        pakitahe(tama)
+        itigil
+    lagay 2:
+        pakitahe (mali)
+        itigil
